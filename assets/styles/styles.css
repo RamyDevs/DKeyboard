@@ -1,0 +1,31 @@
+.plat-center1{
+    margin-left:20px;
+}
+.plat-center2{
+    margin-left:40px;
+}
+body{
+    height:500px;
+}
+#Ekeyboard{
+    border: 1px solid black;
+    width:300px;
+    float:left;
+}
+#Akeyboard{
+    border: 1px solid black;
+    width:300px;
+    float:right;
+}
+.key{
+    background-color: #51B4FA;
+    color:white;
+    border: 0px;
+}
+.txt-center{
+    text-align: center;
+}
+.key-center{
+    margin-left: 100px;
+}
+
